@@ -1,0 +1,50 @@
+body{
+    background-image: url(/public/fine-weather-landscape-iq9k6ubn8w9yhhkc.jpg);
+}
+.bigBox {
+    /* border: 2px solid gray; */
+    /* width: 400px; */
+    /* height: 400px; */
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+    /* background-color: rgb(158, 169, 166); */
+  }
+
+.hOneHeading{
+    color: rgb(173, 173, 173);
+    
+}
+
+.inputField{
+    width: 30%;
+    height: 20px;
+    border-radius: 10px;
+    background-color: rgba(211, 209, 201, 0.864);
+    
+}
+
+.nameOfCity{
+    /* border: 1px solid rgb(199, 143, 143); */
+    /* border-radius: 10px; */
+    /* box-shadow: 0cqmax; */
+    /* width: 150px; */
+    /* height: 70px; */
+    margin: 20px 10px;
+    padding: 5px;
+    display: inline-block;
+}
+.countryName{
+    
+    margin: 20px 10px;
+    padding: 5px;
+    display: inline-block;
+}
+.loadingBox{
+    justify-content: center;
+}
+.myCityName{
+    font-family: 'Courier New', Courier, monospace;
+}
